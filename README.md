@@ -1,26 +1,24 @@
 ## 👋 Hello, I'm Ketan Das
-A passionate Python Developer specializing in web scraping, data extraction, and automation solutions for real-world business problems.
+A passionate Python Developer good  in web scraping, data extraction, and automation solutions for real-world business problems.
 
-### 🔭 Currently Working On
+ 🔭 Currently Working On
 Building production-ready web scraping solutions for real estate, finance, and e-commerce platforms with focus on reliability, clean data, and maintainable code.
 
-### 👯 Looking to Collaborate On
+ 👯 Looking to Collaborate On
 Web scraping, data extraction, browser automation, ETL processes, financial data analysis, and real estate solutions.
 
-### 🤝 Looking for Help With
+ 🤝 Looking for Help With
  I’m looking for help with<br>Designing scalable scraping architectures and optimizing scraping workflows for large datasets.<br><br>
-
-### 🌱 Currently Learning
-### 💬 Ask Me About
+ 
+ 🌱 Currently Learning
+ Playwright for modern browser automation, Scrapy for large-scale web scraping, SQL (PostgreSQL & MySQL) for data storage, and AWS (S3, EC2, Lambda) for cloud deployment.
+ 
+ 💬 Ask Me About
 Python web scraping, Selenium automation, Beautiful Soup, Requests, data cleaning with pandas, proxy management, rate limiting, and ethical scraping practices.
 
-## 💼 Tech Stack
 ⚡ Fun Fact
-I enjoy turning complex, dynamic web platforms into clean, structured datasets ready for analysis
-. There's something satisfying about finding the perfect selectors,
-building reliable pipelines, and solving real business problems with data 📊
+I enjoy turning complex, dynamic web platforms into clean, structured datasets ready for analysis. There's something satisfying about finding the perfect selectors,building reliable pipelines, and solving real business problems with data 📊
 
-## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ketandas.codes@gmail.com) 
 🐙 GitHub: @ketandas-codes
 
