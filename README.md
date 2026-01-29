@@ -1,12 +1,34 @@
-# 💫 About Me:
-👋 About Me <br><br>🔭 I’m currently working on<br>Building production-ready web scraping and automation solutions for real estate, finance, and e-commerce platforms using Python, with a focus on reliability, clean data, and maintainable code.<br><br>👯 I’m looking to collaborate on<br>Web scraping, data extraction, browser automation, and data processing projects.<br><br>🤝 I’m looking for help with<br>Designing scalable scraping architectures and optimizing scraping workflows for large datasets.<br><br>🌱 I’m currently learning<br>Playwright, Scrapy, SQL (PostgreSQL / MySQL), and AWS (S3, EC2, Lambda).<br><br>💬 Ask me about<br>Python web scraping, Selenium automation, BeautifulSoup, Requests, handling CAPTCHA-protected flows with approved methods, scraping authorized login-based dashboards, proxy usage, and data cleaning with pandas.<br><br>⚡ Fun fact<br>I enjoy turning complex, dynamic, and protected web platforms into clean, structured datasets ready for analysis 📊
+## 👋 Hello, I'm Ketan Das
+A passionate Python Developer specializing in web scraping, data extraction, and automation solutions for real-world business problems.
 
+### 🔭 Currently Working On
+Building production-ready web scraping solutions for real estate, finance, and e-commerce platforms with focus on reliability, clean data, and maintainable code.
+
+### 👯 Looking to Collaborate On
+Web scraping, data extraction, browser automation, ETL processes, financial data analysis, and real estate solutions.
+
+### 🤝 Looking for Help With
+ I’m looking for help with<br>Designing scalable scraping architectures and optimizing scraping workflows for large datasets.<br><br>
+
+### 🌱 Currently Learning
+### 💬 Ask Me About
+Python web scraping, Selenium automation, Beautiful Soup, Requests, data cleaning with pandas, proxy management, rate limiting, and ethical scraping practices.
+
+## 💼 Tech Stack
+⚡ Fun Fact
+I enjoy turning complex, dynamic web platforms into clean, structured datasets ready for analysis
+. There's something satisfying about finding the perfect selectors,
+building reliable pipelines, and solving real business problems with data 📊
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ketandas.codes@gmail.com) 
+🐙 GitHub: @ketandas-codes
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2EAD69?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
